@@ -1,0 +1,25 @@
+{
+  "name": "instagram",
+  "version": "1.0.0",
+  "description": "Build a Instagram-similar DApp that allows users to share image links through it. You can build this based on Ethereum testnet. The dApp has two functions: 1. Making a transaction to submit these information: (image title, image url). 2. List all shared images by getting logs from blockchain. Bonus: enable users to like images and list images by number of likes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganaraja/Instagram.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ganaraja/Instagram/issues"
+  },
+  "homepage": "https://github.com/ganaraja/Instagram#readme",
+  "dependencies": {
+    "ganache-cli": "^6.4.3",
+    "mocha": "^6.1.4",
+    "solc": "^0.4.25",
+    "web3": "^1.0.0-beta.37"
+  }
+}
