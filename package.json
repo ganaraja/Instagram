@@ -18,7 +18,7 @@
   "homepage": "https://github.com/ganaraja/Instagram#readme",
   "dependencies": {
     "ganache-cli": "^6.4.3",
-    "mocha": "^6.1.4",
+    "mocha": "^10.2.0",
     "solc": "^0.4.25",
     "web3": "^1.0.0-beta.37"
   }
